@@ -1,0 +1,4 @@
+Model,Success Rate (%),Collision Rate (%),Timeout Rate (%),Avg Reward,Avg Steps
+Random Agent,0.0,96.0,4.0,-5989614.6828628,401.75
+Heuristic Agent,32.0,42.0,26.0,3263086.7339261365,637.08
+Q-Learning Agent,82.0,16.0,2.0,15437230.66850493,305.92
